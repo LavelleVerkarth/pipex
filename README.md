@@ -5,9 +5,9 @@ See more [subject](https://github.com/LavelleVerkarth/pipex/blob/main/en.subject
 
 ## Build
 
-- To compile and generate a static C library named libft.a mandatory part
+- To compile and generate an executable file named pipex mandatory part
 > - make
-- To compile and generate a static C library named libft.a bonus part
+- To compile and generate bonus part
 > - make bonus
 - To remove obj:
 > - make clean
