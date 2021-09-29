@@ -1,7 +1,7 @@
 # pipex
 ### This is a project from  "School 21"
 Pipex executes pipes and some redirects like in a bash shell. 
-See more [subject](http://example.com/).
+See more [subject](https://github.com/LavelleVerkarth/pipex/blob/main/en.subject.pdf).
 
 ## Build
 
